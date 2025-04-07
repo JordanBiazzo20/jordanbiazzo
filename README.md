@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jordan, an <a [href="https://www.linkedin.com/in/jordan-biazzo-3a350bb9/)">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jordan, an <a href="https://linkedin.com/in/jordan-biazzo-3a350bb9/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -15,5 +15,5 @@
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: [https://twitter.com/Josh](https://x.com/creatingjayy)
+[twitter]: (https://x.com/creatingjayy)
 [linkedin]: (https://www.linkedin.com/in/jordan-biazzo-3a350bb9/)
