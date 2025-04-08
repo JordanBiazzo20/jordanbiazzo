@@ -6,6 +6,10 @@
   - [osTicket: Prerequisites and Installation](https://github.com/JordanBiazzo20/osticket-prereqs))
   - [osTicket: Post-Installation Configuration](https://github.com/JordanBiazzo20/osTicket-Post-Install-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/JordanBiazzo20/osTicket-Ticket-Lifecycle-Examples)
+
+- <b>Proton VPN Set-Up & Configuration</b>
+  - [Azure Virtual Machine + VPN Geolocation Lab](https://github.com/JordanBiazzo20/Azure-Virtual-Machine-VPN-Geolocation-Lab)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
